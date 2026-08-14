@@ -194,8 +194,8 @@ Ensure persistent volume is mounted for `STORAGE_PATH`.
 ### Docker
 
 ```bash
-docker build -t crav-mcp-filesystem .
-docker run -p 3003:3003 -v /data:/tmp/javari-builds --env-file .env crav-mcp-filesystem
+docker build -t javari-mcp-filesystem .
+docker run -p 3003:3003 -v /data:/tmp/javari-builds --env-file .env javari-mcp-filesystem
 ```
 
 ## Monitoring

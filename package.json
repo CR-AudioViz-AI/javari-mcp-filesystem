@@ -1,5 +1,5 @@
 {
-  "name": "crav-mcp-filesystem",
+  "name": "javari-mcp-filesystem",
   "version": "1.0.0",
   "description": "File System MCP Server for Javari AI File Operations",
   "main": "dist/index.js",
